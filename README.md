@@ -5,8 +5,7 @@
 ## 2. 한글로렘입숨 생성기 ##
 
 👇🏻작업물 보러가기👇🏻
-
-[한글로렘입숨생성기](https://gonghanna.github.io/JS-Question-book/loremIpsum.html)
+- [한글로렘입숨생성기](https://gonghanna.github.io/JS-Question-book/loremIpsum.html)
 
 기여자 : 공한나, 안윤지
 
